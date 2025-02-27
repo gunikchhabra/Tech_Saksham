@@ -4,3 +4,4 @@ numpy
 pandas
 seaborn
 mysql-connector-python
+streamlit
